@@ -7,7 +7,7 @@
 
 # 🔖 Sobre
 
-Esse projeto foi desenvolvido com o objetivo de ensinar como criar controle de acesso de usuário, utilizando NodeJS, JsonWebToken, e TypeOrm.
+Esse projeto foi desenvolvido com o objetivo de implementar controle de acesso de usuário, utilizando NodeJS, JsonWebToken, e TypeOrm.
 
 ## 🗂 Material de apoio
 
